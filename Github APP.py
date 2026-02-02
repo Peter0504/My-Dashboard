@@ -12,6 +12,7 @@ col1, col2, col3 = st.columns(3)
 with col1:
     st.header("🏫 Academic & Career")
     st.page_link("https://canvas.eee.uci.edu/", label="UCI Canvas", icon="📚")
+    st.page_link("https://scholar.google.com/", label="Google Scholar", icon="🎓")
     st.page_link("https://github.com/", label="GitHub", icon="💻")
     st.page_link("https://www.overleaf.com/", label="Overleaf", icon="📝")
 
