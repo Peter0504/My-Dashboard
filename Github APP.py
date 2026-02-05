@@ -22,6 +22,7 @@ with col2:
     st.page_link("https://chat.openai.com/", label="ChatGPT / Claude", icon="🤖")
     st.page_link("https://www.datacamp.com/", label="DataCamp", icon="🐍")
     st.page_link("https://gemini.google.com/", label = "Gemini", icon = "✨")
+    st.page_link("https://huggingface.co/papers/trending", label = "Papers with Code", icon = "📄")
 
 with col3:
     st.header("🎮 Hobby & Life")
